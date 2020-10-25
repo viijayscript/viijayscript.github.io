@@ -14,7 +14,7 @@
     }
   ],
   "start_url": "https://viijayscript.github.io",
-  "background_color": "#3367D6",
+  "background_color": "#41f21d",
   "display": "standalone",
-  "theme_color": "#3367D6"
+  "theme_color": "#41f21d"
 }
