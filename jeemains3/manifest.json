@@ -1,0 +1,20 @@
+{
+  "short_name": "ViijayScript",
+  "name": "ViijayScript : Download Solved MCQ in PDF of Physics for JEE Mains Examination 2022 Part 3 (Updated)",
+  "icons": [
+    {
+      "src": "https://1.bp.blogspot.com/-P98EOxwKRsQ/X5KsGYTzP1I/AAAAAAAAQVY/OGzbmejIbrMVcOH3VlE0ehG3JGNSQ6z7wCLcBGAsYHQ/s0/android-chrome-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-PhGbYMsMy-Q/X5KsGx0LcOI/AAAAAAAAQVg/cy3s7RRXcJgFYXL3B0P0bZI47ih3TmwWQCLcBGAsYHQ/s0/android-chrome-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "https://viijayscript.github.io/jeemains3/",
+  "background_color": "#FFFFFF",
+  "display": "standalone",
+  "theme_color": "#41f21d"
+}
