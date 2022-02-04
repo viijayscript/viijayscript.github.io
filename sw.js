@@ -3,7 +3,8 @@ this.addEventListener("install", (event) => {
     event.waitUntil(
         caches.open(cacheData).then((cache) => {
             cache.addAll([
-                https://viijayscript.github.io/
+                '/',
+                '/index.html'
             ])
         })
     )
