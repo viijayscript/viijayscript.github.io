@@ -5,6 +5,7 @@ this.addEventListener("install", (event) => {
             cache.addAll([
                 '/',
                 '/index.html'
+                "https://www.viijayscript.com/"
             ])
         })
     )
