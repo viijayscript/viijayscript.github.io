@@ -3,14 +3,16 @@
   "name": "ViijayScript : Main App",
   "icons": [
     {
-      "src": "https://github.com/viijayscript/viijayscript.github.io/blob/main/maskable_icon_x192.png",
+      "src": "./maskable_icon_x192.png",
       "type": "image/png",
       "sizes": "192x192"
+      "purpose": "any maskable"
     },
     {
-      "src": "https://github.com/viijayscript/viijayscript.github.io/blob/main/maskable_icon_x512.png",
+      "src": "./maskable_icon_x512.png",
       "type": "image/png",
       "sizes": "512x512"
+      "purpose": "any maskable"
     }
   ],
   "start_url": "https://viijayscript.github.io",
